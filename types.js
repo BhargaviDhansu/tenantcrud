@@ -1,0 +1,4 @@
+export const ADD_TENANT = "ADD_TENANT";
+export const RETRIEVE_TENANTS = "RETRIEVE_TENANTS";
+export const UPDATE_TENANT = "UPDATE_TENANT";
+export const DELETE_TENANT = "DELETE_TENANT";
